@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicArrray/BasicArrray.iml" filepath="$PROJECT_DIR$/BasicArrray/BasicArrray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Session06-Array.iml" filepath="$PROJECT_DIR$/.idea/Session06-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentMangement/StudentMangement.iml" filepath="$PROJECT_DIR$/StudentMangement/StudentMangement.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyToys/MyToys.iml" filepath="$PROJECT_DIR$/MyToys/MyToys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Samurai/Samurai.iml" filepath="$PROJECT_DIR$/Samurai/Samurai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Session4-Essentials.iml" filepath="$PROJECT_DIR$/.idea/Session4-Essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentProfile/StudentProfile.iml" filepath="$PROJECT_DIR$/StudentProfile/StudentProfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XoaBoDemStudent/XoaBoDemStudent.iml" filepath="$PROJECT_DIR$/XoaBoDemStudent/XoaBoDemStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workShop2/workShop2.iml" filepath="$PROJECT_DIR$/workShop2/workShop2.iml" />
+    </modules>
+  </component>
+</project>

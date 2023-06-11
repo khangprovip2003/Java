@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Craftsman/Craftsman.iml" filepath="$PROJECT_DIR$/Craftsman/Craftsman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CraftsmanV2/CraftsmanV2.iml" filepath="$PROJECT_DIR$/CraftsmanV2/CraftsmanV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CraftsmanV3/CraftsmanV3.iml" filepath="$PROJECT_DIR$/CraftsmanV3/CraftsmanV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParentChild/ParentChild.iml" filepath="$PROJECT_DIR$/ParentChild/ParentChild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParentChildV2/ParentChildV2.iml" filepath="$PROJECT_DIR$/ParentChildV2/ParentChildV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Session7-Inheritance.iml" filepath="$PROJECT_DIR$/.idea/Session7-Inheritance.iml" />
+    </modules>
+  </component>
+</project>
